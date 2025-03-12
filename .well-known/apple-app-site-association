@@ -1,7 +1,11 @@
 {
-  "appclips": {
-    "apps": [
-      "59Z35DMJ65.com.hongyinull.HakkaShopScanner2.Clip"
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "59Z35DMJ65.com.hongyinull.InstaFilter",
+        "paths": ["/share/*", "/filter/*"]
+      }
     ]
   }
 }
